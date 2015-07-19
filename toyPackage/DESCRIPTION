@@ -1,0 +1,9 @@
+Package: toyPackage
+Type: Package
+Title: Illustrates a 1 function package
+Version: 1.0
+Date: 2015-06-29
+Author: Linbo Wang
+Maintainer: Linbo Wang <lbwang@uw.edu>
+Description: Nothing. Really, nothing. The 2nd line keeps code from complaining.
+License: MIT + file LICENSE
